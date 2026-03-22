@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26166484/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Jash%20%F0%9F%91%8B&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=36&desc=Student%20%7C%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descColor=C9A84C" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I'm%20Jash%20%F0%9F%91%8B&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=36&desc=Student%20%7C%20Developer%20%7C%20Ai%20Learner&descAlignY=58&descColor=C9A84C" />
 
 </div>
 
